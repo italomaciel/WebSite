@@ -1,0 +1,1 @@
+<img src="/uploads/<?php echo $row['image']; ?>" width="330" height="300">
